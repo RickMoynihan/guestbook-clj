@@ -1,0 +1,6 @@
+[submodule "deps/compojure"]
+	path = deps/compojure
+	url = git://github.com/weavejester/compojure.git
+[submodule "deps/appengine-clj"]
+	path = deps/appengine-clj
+	url = git://github.com/duelinmarkers/appengine-clj.git
